@@ -1,1 +1,4 @@
 # Automobile_Price_Prediction
+
+
+Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiYTA0ZjUzZDktNmRiNy00ZmMxLWFkZTItMWU1ZmNmNWY0OGE2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
